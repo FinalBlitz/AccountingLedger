@@ -1,1 +1,5 @@
-05/02/2023,15.00,Test b
+date|time|description|vendor|amount
+ 2023-05-03 | 14:27:15 | Happy meal | McD | -15.440000
+ 2023-05-03 | 14:40:16 | Test | Editor | -10.000000
+ 2023-05-03 | 16:17:30 | I was hungry | IHop | 44.500000
+ 2023-05-03 | 16:19:49 | Chinese Food | KingChef | 54.000000
